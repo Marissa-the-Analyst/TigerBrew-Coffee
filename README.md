@@ -1,5 +1,6 @@
 # TigerBrew-Coffee
 An exploratory data analysis with a dashboard displaying analytics of a coffee vending machine's sales in Excel
+To view the data dashboard online, [click here](https://1drv.ms/x/s!AvVMeJdoMRZIb0uG9JQRrZlEitM?e=IpBTMW)
 
 ### Scope of Work ###
 **Deliverables**
